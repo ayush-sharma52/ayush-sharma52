@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush-sharma52
 - 👀 I’m interested in ... data structures and algorithms
-- 🌱 I’m currently learning ... non linear data structures 
+- 🌱 I’m currently learning ... web development
 - 💞️ I’m looking to collaborate on ... anything (learning things )
 - 📫 How to reach me ... 
 
